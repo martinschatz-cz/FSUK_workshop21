@@ -1,9 +1,0 @@
-https://bbbc.broadinstitute.org/BBBC004
-
-Five subsets of 20 images each are provided. Each image contains 300 objects, but the objects overlap and cluster with different probabilities in the five subsets. 
-
-0.45 overlap probability
-
-CC-BY-NC
-
-"We used image set BBBC004v1 [Ruusuvuori et al., in Proc. of the 16th European Signal Processing Conference (EUSIPCO-2008), 2008] from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012]."
