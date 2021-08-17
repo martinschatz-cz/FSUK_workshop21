@@ -1,5 +1,0 @@
-https://bbbc.broadinstitute.org/BBBC038
-
-CC-0
-
-"We used image set BBBC038v1, available from the Broad Bioimage Benchmark Collection [Caicedo et al., Nature Methods, 2019]."

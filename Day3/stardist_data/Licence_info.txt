@@ -1,0 +1,4 @@
+Source: https://bbbc.broadinstitute.org/BBBC038
+Licence: CC-0
+
+Cite: "We used image set BBBC038v1, available from the Broad Bioimage Benchmark Collection [Caicedo et al., Nature Methods, 2019]."
