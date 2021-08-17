@@ -1,0 +1,8 @@
+pixel_object*.tiff data licence: CC-BY
+
+resto of data:
+
+source: https://bbbc.broadinstitute.org/BBBC038
+licence: CC-0
+
+cite: "We used image set BBBC038v1, available from the Broad Bioimage Benchmark Collection [Caicedo et al., Nature Methods, 2019]."
