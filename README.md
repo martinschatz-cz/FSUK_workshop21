@@ -4,7 +4,7 @@ Image analysis and data processing in superresolution microscopy workshop 2021, 
 # Copyright
 Repository is under CC-0 licence, however some of the resources have their specific licences attached.
 
-## Program
+# Program
 ### Day 1
 * 9:00 – 9:10	Welcome note (Ondřej Šebesta)
 * 9:10 – 9:30	Introduction of new applications in KONFMI 
