@@ -1,6 +1,23 @@
 # FSUK_workshop21
 Image analysis and data processing in superresolution microscopy workshop 2021, Faculty of Science, Charles University
 
+## What you can find in this repository
+In this repository you will find mainly files for hands on part of workshop, instructions what and how to install apropriate free software, manuals and/or other usefull documentations for plugins. Also you will find here some of the presentations, if authors will agree to share them.
+
+### How to download whole repository
+
+You can download whole repository as .zip file through this webpage:
+![Image how to download repo](https://github.com/martinschatz-cz/FSUK_workshop21/blob/d15ac52bc020e3753e2ea0c4bc6097ecde225f1b/readme_images/download_repo.png)
+
+It is also possible to clone whole repository, if you have git installed on your machine:
+
+    git clone https://github.com/martinschatz-cz/FSUK_workshop21.git
+
+### How to download single file
+
+Or you can download single file through this webpage:
+![Image how to download repo](https://github.com/martinschatz-cz/FSUK_workshop21/blob/d15ac52bc020e3753e2ea0c4bc6097ecde225f1b/readme_images/download_file.png)
+
 # Copyright
 Repository is under CC-0 licence, however some of the resources have their specific licences attached.
 
