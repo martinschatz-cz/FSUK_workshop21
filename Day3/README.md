@@ -1,7 +1,7 @@
 # Day 3
 
 ## Customizing ImageJ using ImageJ Macro
-* [ImageJ Macro crash course(Slides)](https://github.com/martinschatz-cz/FSUK_workshop21/tree/main/Day3/customizing_imagej/)
+* [ImageJ Macro crash course (Slides)](customizing_imagej/ImageJ_macro.pptx)
   * [ImageJ Macro cheat sheets](https://github.com/BiAPoL/imagej-macro-cheat-sheet)
 * [Customizing ImageJ](https://github.com/martinschatz-cz/FSUK_workshop21/tree/main/Day3/customizing_imagej/Customizing_ImageJ_GUI_and_IJ_markdown.pptx)
   * [Examples](https://github.com/martinschatz-cz/FSUK_workshop21/tree/main/Day3/customizing_imagej/]
