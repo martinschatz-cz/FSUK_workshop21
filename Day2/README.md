@@ -6,4 +6,4 @@ The ThunderSTORM plugin can be found [here](https://zitmen.github.io/thunderstor
 
 Install ImageJ (FIJI) if needed, and download the latest version of ThunderSTORM. For installation, copy the downloaded file into ImageJ's plugin subdirectory and run ImageJ. See the [Installation guide](https://github.com/zitmen/thunderstorm/wiki/Installation) for more information. To get started using ThunderSTORM, see the [Tutorials](https://github.com/zitmen/thunderstorm/wiki/Tutorials). 
 
-Download the sample data. Due to it's size, make sure you download it beforehand, as the campus network may be overloaded.
+Download the sample data [here](https://drive.google.com/file/d/1K2HDv05irr0lRki1XyUin-kslO-lKHDH/view?usp=sharing) and [here](https://drive.google.com/file/d/1SIIWIIejdlseGThZ4kD32-wG8stNmThS/view?usp=sharing). Due to the size, make sure you download the sample data beforehand, as the campus network may be overloaded.
