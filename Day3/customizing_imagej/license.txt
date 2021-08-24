@@ -1,0 +1,10 @@
+Author: Robert Haase, PoL TU Dresden
+License: CC-BY 4.0, https://creativecommons.org/licenses/by/4.0/
+
+Some material is derived from Jerome Mutterer (IBMP CNRS) shared under CC-BY 4.0 license
+Source: https://docs.google.com/presentation/d/194pZLgxHIlyOXorIYPvRE-KZSiXpdfhyL6f7UwmAG0o/edit#slide=id.p
+
+The script file install_custom_functions_folder.ijm was taken from Nico DeFrancesco shared via the image.sc forum under CC-0 license:
+https://forum.image.sc/t/auto-code-completion-for-ij-macro/11642/95
+
+
